@@ -1,0 +1,33 @@
+{
+  "name": "react-use-please-stay",
+  "version": "1.0.0",
+  "description": "一个有趣的 React hook，可以在页面失去焦点时为文档标题和 favicon 添加动画效果",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WangShuXian6/react-use-please-stay.git"
+  },
+  "keywords": [
+    "react、typescript、react",
+    "hook、react",
+    "hooks"
+  ],
+  "author": "wangshuxian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WangShuXian6/react-use-please-stay/issues"
+  },
+  "homepage": "https://github.com/WangShuXian6/react-use-please-stay#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/react": "^18.3.10",
+    "typescript": "^5.6.2"
+  },
+  "peerDependencies ": {
+    "react": "^18.3.1"
+  }
+}
